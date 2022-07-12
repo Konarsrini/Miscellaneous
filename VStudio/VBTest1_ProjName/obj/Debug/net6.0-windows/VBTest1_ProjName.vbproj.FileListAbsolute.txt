@@ -1,0 +1,17 @@
+G:\VStudio\VBTest1_ProjName\bin\Debug\net6.0-windows\VBTest1_ProjName.exe
+G:\VStudio\VBTest1_ProjName\bin\Debug\net6.0-windows\VBTest1_ProjName.deps.json
+G:\VStudio\VBTest1_ProjName\bin\Debug\net6.0-windows\VBTest1_ProjName.runtimeconfig.json
+G:\VStudio\VBTest1_ProjName\bin\Debug\net6.0-windows\VBTest1_ProjName.dll
+G:\VStudio\VBTest1_ProjName\bin\Debug\net6.0-windows\VBTest1_ProjName.pdb
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.vbproj.AssemblyReference.cache
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.Form1.resources
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.vbproj.GenerateResource.cache
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.GeneratedMSBuildEditorConfig.editorconfig
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.AssemblyInfoInputs.cache
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.AssemblyInfo.vb
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.vbproj.CoreCompileInputs.cache
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.dll
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\refint\VBTest1_ProjName.dll
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.pdb
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\VBTest1_ProjName.genruntimeconfig.cache
+G:\VStudio\VBTest1_ProjName\obj\Debug\net6.0-windows\ref\VBTest1_ProjName.dll

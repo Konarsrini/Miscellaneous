@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VBTest1_ProjName/1.0.0": {
+        "runtime": {
+          "VBTest1_ProjName.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VBTest1_ProjName/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
